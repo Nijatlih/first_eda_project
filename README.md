@@ -30,7 +30,6 @@ The goal is to explore housing sales data to validate hypotheses about property 
   - Jupyter Notebook for initial data exploration, cleaning, and preparation.
 - `EDA.ipynb`
   - Main Jupyter Notebook containing all visualizations, statistical tests, hypothesis validation, and client-specific filtering.
-- `presentation_slides.md`
   - The script and outline for the non-technical presentation mapping to the EDA findings.
 
 ## Highlights & Client Recommendations
